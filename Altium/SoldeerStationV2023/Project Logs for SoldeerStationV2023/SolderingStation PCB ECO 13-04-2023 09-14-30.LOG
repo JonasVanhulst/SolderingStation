@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=BR? NewDesignator=B1
+Change Component Designator: OldDesignator=BR? NewDesignator=B2
+Change Net Name : Old Net Name=NetBR?_1 New Net Name=NetB2_1
+Change Net Name : Old Net Name=NetBR?_2 New Net Name=NetB1_2
+Change Net Name : Old Net Name=NetBR?_3 New Net Name=NetB1_3
+Added Pin To Net: NetName=NetB2_2 Pin=B2-2
+Added Pin To Net: NetName=NetB2_2 Pin=K1-1
+Added Pin To Net: NetName=NetB2_2 Pin=RE1-11
+Added Net: Name=NetB2_2
+Added Member To Class: ClassName=Voeding Member=Component B1 D6KB6U

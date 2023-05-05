@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=SW1 Old Footprint=FP-PEC11R-4230F-S0024-MFG New Footprint=SW5_PEC11R-4225F-S0024_BRN
+Added Pin To Net: NetName=GND Pin=SW1-5

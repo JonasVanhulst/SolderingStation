@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Pin From Net: NetName=GND Pin=*-2
+Removed Pin From Net: NetName=Net*_A Pin=*-A
+Removed Pin From Net: NetName=Net*_B Pin=*-B
+Removed Pin From Net: NetName=GND Pin=*-C
+Change Component Footprint: Designator=R1 Old Footprint=Weerstand 1M ohm New Footprint=Weerstand 10k ohm
+Change Component Footprint: Designator=R2 Old Footprint=Weerstand 1M ohm New Footprint=Weerstand 10k ohm
+Change Component Footprint: Designator=R3 Old Footprint=Weerstand 1M ohm New Footprint=Weerstand 10k ohm
+Added Component: Designator=SW1(SW5_PEC11R-4225F-S0024_BRN)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PEC11R-4225F-S0024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Bourns Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_1 Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=Net*_A Pin=SW1-3
+Added Pin To Net: NetName=Net*_B Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW1-5
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=Net*_A New Net Name=NetC3_1
+Change Net Name : Old Net Name=Net*_B New Net Name=NetC4_1
+Added Member To Class: ClassName=Display Member=Component SW1 PEC11R-4225F-S0024

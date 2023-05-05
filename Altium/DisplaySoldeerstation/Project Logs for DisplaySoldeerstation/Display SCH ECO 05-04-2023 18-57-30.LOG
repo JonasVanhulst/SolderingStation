@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=R1 (disp) Old Footprint=Weerstand 1M ohm New Footprint=Weerstand 10k ohm
+Change Component Footprint: Designator=R2 (disp) Old Footprint=Weerstand 1M ohm New Footprint=Weerstand 10k ohm
+Change Component Footprint: Designator=R3 (disp) Old Footprint=Weerstand 1M ohm New Footprint=Weerstand 10k ohm
+Change Component Designator: OldDesignator=C1 (dis) NewDesignator=C1
+Change Component Designator: OldDesignator=C2 (dis) NewDesignator=C2
+Change Component Designator: OldDesignator=C3 (dis) NewDesignator=C3
+Change Component Designator: OldDesignator=C4 (dis) NewDesignator=C4
+Change Component Designator: OldDesignator=C5 (dis) NewDesignator=C5
+Change Component Designator: OldDesignator=IC1 (Display) NewDesignator=IC1 
+Change Component Designator: OldDesignator=K1 (disp) NewDesignator=K1
+Change Component Designator: OldDesignator=R1 (disp) NewDesignator=R1
+Change Component Designator: OldDesignator=R2 (disp) NewDesignator=R2 
+Change Component Designator: OldDesignator=R3 (disp) NewDesignator=R3

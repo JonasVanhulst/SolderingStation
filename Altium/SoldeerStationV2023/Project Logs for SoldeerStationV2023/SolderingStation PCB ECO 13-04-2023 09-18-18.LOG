@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=K5 Old Footprint=2pin connector New Footprint=Pinheader (1rij-2pin)
+Change Component Footprint: Designator=K3 Old Footprint=Pinheader (1rij-2pin) New Footprint=Printkroonsteen 2pin
+Change Component Footprint: Designator=K8 Old Footprint=Pinheader (1rij-2pin) New Footprint=Printkroonsteen 2pin

@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=B1-2
+Removed Pin From Net: NetName=VIN Pin=B2-1
+Removed Pin From Net: NetName=GND Pin=B2-2
+Removed Member From Class: ClassName=Voeding Member=B1
+Removed Member From Class: ClassName=Voeding Member=B2
+Change Component Footprint: Designator=K3 Old Footprint=2pin connector New Footprint=Pinheader (1rij-2pin)
+Change Component Footprint: Designator=K8 Old Footprint=2pin connector New Footprint=Pinheader (1rij-2pin)
+Change Component Footprint: Designator=IC1 Old Footprint=IC1 New Footprint=IC1
+Change Component Footprint: Designator=K5 Old Footprint=Pinheader (1rij-2pin) New Footprint=2pin connector
+Added Component: Designator=BR?(SIP4_D6K_MTC)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "D6KB6U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=BR?(SIP4_D6K_MTC)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "D6KB6U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=BR?-1
+Added Pin To Net: NetName=GND Pin=BR?-4
+Added Pin To Net: NetName=GND Pin=BR?-4
+Added Pin To Net: NetName=NetBR?_1 Pin=BR?-1
+Added Pin To Net: NetName=NetBR?_1 Pin=C4-2
+Added Pin To Net: NetName=NetBR?_1 Pin=IC1-1
+Added Net: Name=NetBR?_1
+Added Pin To Net: NetName=NetBR?_2 Pin=BR?-2
+Added Pin To Net: NetName=NetBR?_2 Pin=K1-2
+Added Pin To Net: NetName=NetBR?_2 Pin=RE1-21
+Added Net: Name=NetBR?_2
+Add Net: Net with name "NetBR?_2" already exists
+Added Pin To Net: NetName=NetBR?_3 Pin=BR?-3
+Added Pin To Net: NetName=NetBR?_3 Pin=K2-1
+Added Pin To Net: NetName=NetBR?_3 Pin=RE1-22
+Added Net: Name=NetBR?_3
+Added Member To Class: ClassName=Voeding Member=Component BR? D6KB6U
+Added Member To Class: ClassName=Voeding Member=Component BR? D6KB6U

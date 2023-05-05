@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=K5 Old Footprint=Pinheader (1rij-2pin) New Footprint=2pin connector
+Change Component Footprint: Designator=K3 Old Footprint=Printkroonsteen 2pin New Footprint=Pinheader (1rij-2pin)
+Change Component Footprint: Designator=K8 Old Footprint=Printkroonsteen 2pin New Footprint=Pinheader (1rij-2pin)
+Change Component Comment: Designator=K3 Old Comment=1714955 New Comment=
+Change Component Comment: Designator=K8 Old Comment=1714955 New Comment=
+Change Pin Designator/Name:  Old Designator=K1-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=K1-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=K3-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=K3-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=K5-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=K5-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=L2-3 Old Name=3 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=L2-4 Old Name=4 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=RE1-11 Old Name=11 New Designator =21 New Name=21
+Change Pin Designator/Name:  Old Designator=RE1-21 Old Name=21 New Designator =11 New Name=11
