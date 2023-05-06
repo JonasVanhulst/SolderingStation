@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [SolderingStation.PcbDoc]
+   Generated File[SolderingStation.TXT]
+   Generated File[SolderingStation.LDP]
+   Generated File[SolderingStation.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:26:29 On 06/05/2023
